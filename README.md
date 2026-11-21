@@ -8,17 +8,14 @@
 
 Este projeto foi desenvolvido por alunos com o objetivo de criar uma aplicação Java capaz de se comunicar com a impressora **Elgin i9**, utilizando comandos **ESC/POS**, testes de impressão e interação via porta de comunicação.
 
-O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
+O trabalho faz parte da disciplina de **Construção de Algoritmos e Programação**.
 
 ---
 
 ## 🧰 Tecnologias Utilizadas
 
-- **Java 17**
-- **IntelliJ IDEA**
-- **Biblioteca ESC/POS**
+- **Linguagem C**
 - **Driver/SDK da Elgin i9**
-- *(Opcional)* Maven ou Gradle
 
 ---
 
@@ -50,14 +47,7 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 
 ### 🧭 3. Importar no IntelliJ IDEA
 
-1. Abra o **IntelliJ IDEA**.
-2. Clique em **Open**.
-3. Escolha a pasta extraída.
-4. Aguarde o carregamento.
-5. Caso apareça, clique em **Import Project** (Maven/Gradle).
-6. Verifique o SDK em:
-   - *File → Project Structure → Project SDK → Java 17*
-7. Abra o arquivo `Main.java` e clique em ▶️ **Run**.
+1. Abra a documentação referente à impressora Elgin "https://elgindevelopercommunity.github.io/group___m1.html"
 
 ---
 
